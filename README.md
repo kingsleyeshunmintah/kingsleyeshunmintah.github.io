@@ -1,5 +1,5 @@
 <html>
-  <link type='favicon' src="https://i.ibb.co/67DbkxKz/Eshun-Kingsley-Profile-1.png">
+  <link rel='icon' src="https://i.ibb.co/67DbkxKz/Eshun-Kingsley-Profile-1.png">
   <meta content='description' value='Personal portfolio website:Eshun Kingsley Mintah'>
 
   <body>
