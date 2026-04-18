@@ -224,7 +224,7 @@
 
       <div class="card">
         <h3>Project Three</h3>
-        <p>Short description of your project.</p>
+        <p>Short project description.</p>
         <a href="#">View on GitHub</a>
       </div>
 
